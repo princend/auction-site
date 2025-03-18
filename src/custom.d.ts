@@ -1,4 +1,1 @@
-declare module '*.svg' {
-  const content: string;
-  export default content;
-}
+// 將static/media/custom.d.ts的內容寫入這裡
